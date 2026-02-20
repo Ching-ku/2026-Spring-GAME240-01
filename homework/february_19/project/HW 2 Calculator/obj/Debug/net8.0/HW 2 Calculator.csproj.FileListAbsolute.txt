@@ -1,0 +1,15 @@
+/Users/sophie/Documents/GAME DEV/2026-Spring-GAME240-01/homework/february_19/project/HW 2 Calculator/bin/Debug/net8.0/HW 2 Calculator
+/Users/sophie/Documents/GAME DEV/2026-Spring-GAME240-01/homework/february_19/project/HW 2 Calculator/bin/Debug/net8.0/HW 2 Calculator.deps.json
+/Users/sophie/Documents/GAME DEV/2026-Spring-GAME240-01/homework/february_19/project/HW 2 Calculator/bin/Debug/net8.0/HW 2 Calculator.runtimeconfig.json
+/Users/sophie/Documents/GAME DEV/2026-Spring-GAME240-01/homework/february_19/project/HW 2 Calculator/bin/Debug/net8.0/HW 2 Calculator.dll
+/Users/sophie/Documents/GAME DEV/2026-Spring-GAME240-01/homework/february_19/project/HW 2 Calculator/bin/Debug/net8.0/HW 2 Calculator.pdb
+/Users/sophie/Documents/GAME DEV/2026-Spring-GAME240-01/homework/february_19/project/HW 2 Calculator/obj/Debug/net8.0/HW 2 Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sophie/Documents/GAME DEV/2026-Spring-GAME240-01/homework/february_19/project/HW 2 Calculator/obj/Debug/net8.0/HW 2 Calculator.AssemblyInfoInputs.cache
+/Users/sophie/Documents/GAME DEV/2026-Spring-GAME240-01/homework/february_19/project/HW 2 Calculator/obj/Debug/net8.0/HW 2 Calculator.AssemblyInfo.cs
+/Users/sophie/Documents/GAME DEV/2026-Spring-GAME240-01/homework/february_19/project/HW 2 Calculator/obj/Debug/net8.0/HW 2 Calculator.csproj.CoreCompileInputs.cache
+/Users/sophie/Documents/GAME DEV/2026-Spring-GAME240-01/homework/february_19/project/HW 2 Calculator/obj/Debug/net8.0/HW 2 Calculator.sourcelink.json
+/Users/sophie/Documents/GAME DEV/2026-Spring-GAME240-01/homework/february_19/project/HW 2 Calculator/obj/Debug/net8.0/HW 2 Calculator.dll
+/Users/sophie/Documents/GAME DEV/2026-Spring-GAME240-01/homework/february_19/project/HW 2 Calculator/obj/Debug/net8.0/refint/HW 2 Calculator.dll
+/Users/sophie/Documents/GAME DEV/2026-Spring-GAME240-01/homework/february_19/project/HW 2 Calculator/obj/Debug/net8.0/HW 2 Calculator.pdb
+/Users/sophie/Documents/GAME DEV/2026-Spring-GAME240-01/homework/february_19/project/HW 2 Calculator/obj/Debug/net8.0/HW 2 Calculator.genruntimeconfig.cache
+/Users/sophie/Documents/GAME DEV/2026-Spring-GAME240-01/homework/february_19/project/HW 2 Calculator/obj/Debug/net8.0/ref/HW 2 Calculator.dll
