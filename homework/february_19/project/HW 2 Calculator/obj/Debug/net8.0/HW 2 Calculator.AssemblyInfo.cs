@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HW 2 Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64659ce4854303376d84b306f6d79ca2aa292905")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d764a63edb9cfcd0eabe65fce598e8f6ced8fc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("HW 2 Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HW 2 Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
